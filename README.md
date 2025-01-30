@@ -52,7 +52,6 @@ Reconhecimento-Facial/
 ├── .gitignore           # Lista de arquivos/pastas ignorados pelo Git
 ├── database.cpp         # Implementação das funções de banco de dados
 ├── database.h           # Cabeçalho para banco de dados
-├── database_config      # (Se necessário) Arquivo de configuração (caso não ignore)
 │
 ├── face_recognition.cpp # Funções de reconhecimento/verificação facial
 ├── face_recognition.h
