@@ -63,8 +63,6 @@ Reconhecimento-Facial/
 ├── main.cpp             # Ponto de entrada do programa (menu principal)
 │
 ├── OPENCVTESTE3.vcxproj        # Arquivo de projeto do Visual Studio
-├── OPENCVTESTE3.vcxproj.filters
-├── OPENCVTESTE3.vcxproj.user
 │
 ├── utils.cpp            # Funções auxiliares (detecção, extração de embeddings, logging)
 └── utils.h
