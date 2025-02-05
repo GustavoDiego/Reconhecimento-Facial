@@ -16,6 +16,8 @@ Este repositório contém um **sistema completo de cadastramento e reconheciment
 10. [📝 Licença](#licenca)
 11. [👤 Autor](#autor)
 12. [🎥 Video](#video)
+13. [🤖 Exemplo](#examplo)
+14. [📑 Relatório](#relatorio)
 
 ---
 
@@ -168,3 +170,33 @@ Sinta-se à vontade para abrir *Issues* em caso de dúvidas, sugestões ou probl
 Clique na imagem abaixo para assistir ao vídeo:
 
 [![Vídeo de Demonstração](https://img.youtube.com/vi/W2iDDpamLk4/0.jpg)](https://youtu.be/W2iDDpamLk4)
+
+## <a name="exemplo"></a> Exemplo de Funcionamento 🤖
+
+A seguir, algumas telas para ilustrar o funcionamento do programa de Reconhecimento Facial em C++ com OpenCV:
+
+1. **Menu Principal**  
+   - O usuário escolhe **Cadastrar** nova pessoa, **Reconhecer** ou **Sair**.
+
+	   ![Menu Principal](img/menu.png)
+
+2. **Tela de Cadastro**  
+   - Ao cadastrar, o sistema inicia a webcam e detecta o rosto em tempo real.  
+   - Pressione `s` para capturar cada foto. É recomendado variar a iluminação e ângulo da cabeça.
+   - O retângulo verde indica que o rosto foi detectado corretamente.  
+   - Após 20 capturas (ou quantas forem necessárias), o programa gera o *embedding* médio e salva os dados.
+
+   ![Tela de Cadastro](img/cadastramento.png)
+
+
+
+3. **Reconhecimento/Verificação**  
+   - No modo de reconhecimento, o sistema compara o rosto com os embeddings salvos, exibindo no console se encontrou um usuário correspondente.
+
+   ![Reconhecimento em Tempo Real](img/reconhecimento.png)
+
+## <a name="relatorio"></a> Relatório 📑
+
+Para mais detalhes sobre o projeto, acesse o **Relatório Completo** no link abaixo:
+
+[Relatório Completo (PDF)](https://drive.google.com/file/d/1QASMUn8q3EK987i-L0vD3b60L6f6h7D8/view?usp=sharing)
