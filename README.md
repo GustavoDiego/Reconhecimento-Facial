@@ -178,7 +178,7 @@ A seguir, algumas telas para ilustrar o funcionamento do programa de Reconhecime
 1. **Menu Principal**  
    - O usuário escolhe **Cadastrar** nova pessoa, **Reconhecer** ou **Sair**.
 
-	   ![Menu Principal](img/menu.png)
+	   ![Menu Principal](imgs/menu.png)
 
 2. **Tela de Cadastro**  
    - Ao cadastrar, o sistema inicia a webcam e detecta o rosto em tempo real.  
@@ -186,14 +186,14 @@ A seguir, algumas telas para ilustrar o funcionamento do programa de Reconhecime
    - O retângulo verde indica que o rosto foi detectado corretamente.  
    - Após 20 capturas (ou quantas forem necessárias), o programa gera o *embedding* médio e salva os dados.
 
-   ![Tela de Cadastro](img/cadastramento.png)
+   ![Tela de Cadastro](imgs/cadastramento.png)
 
 
 
 3. **Reconhecimento/Verificação**  
    - No modo de reconhecimento, o sistema compara o rosto com os embeddings salvos, exibindo no console se encontrou um usuário correspondente.
 
-   ![Reconhecimento em Tempo Real](img/reconhecimento.png)
+   ![Reconhecimento em Tempo Real](imgs/reconhecimento.png)
 
 ## <a name="relatorio"></a> Relatório 📑
 
