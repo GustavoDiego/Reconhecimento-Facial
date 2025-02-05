@@ -15,6 +15,7 @@ Este repositório contém um **sistema completo de cadastramento e reconheciment
 9. [🤝 Contribuindo](#contribuindo)
 10. [📝 Licença](#licenca)
 11. [👤 Autor](#autor)
+12. [🎥 Video](#)
 
 ---
 
@@ -161,7 +162,8 @@ Sinta-se à vontade para usar, modificar e distribuir com poucas restrições.
   - [GitHub](https://github.com/GustavoDiego)  
 
 Sinta-se à vontade para abrir *Issues* em caso de dúvidas, sugestões ou problemas!  
-## 🎥 Vídeo de Demonstração
+
+## 🎥 <a name="video"></a>Vídeo de Demonstração
 
 Clique na imagem abaixo para assistir ao vídeo:
 
