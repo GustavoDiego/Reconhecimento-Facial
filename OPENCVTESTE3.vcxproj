@@ -155,6 +155,7 @@
   <ItemGroup>
     <None Include="..\..\..\..\Downloads\deploy.prototxt" />
     <None Include=".gitignore" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="database.h" />
