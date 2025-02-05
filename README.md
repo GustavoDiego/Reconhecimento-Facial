@@ -161,3 +161,8 @@ Sinta-se à vontade para usar, modificar e distribuir com poucas restrições.
   - [GitHub](https://github.com/GustavoDiego)  
 
 Sinta-se à vontade para abrir *Issues* em caso de dúvidas, sugestões ou problemas!  
+## 🎥 Vídeo de Demonstração
+
+Clique na imagem abaixo para assistir ao vídeo:
+
+[![Vídeo de Demonstração](https://img.youtube.com/vi/W2iDDpamLk4/0.jpg)](https://youtu.be/W2iDDpamLk4)
