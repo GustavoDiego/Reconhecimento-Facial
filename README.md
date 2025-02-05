@@ -15,7 +15,7 @@ Este repositório contém um **sistema completo de cadastramento e reconheciment
 9. [🤝 Contribuindo](#contribuindo)
 10. [📝 Licença](#licenca)
 11. [👤 Autor](#autor)
-12. [🎥 Video](#)
+12. [🎥 Video](#video)
 
 ---
 
